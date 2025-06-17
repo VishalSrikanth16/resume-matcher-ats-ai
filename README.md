@@ -20,6 +20,7 @@ Built with Python, Streamlit, and NLP libraries.
 
 ## 📂 Project Structure
 
+```
 resume_parser/
 │
 ├── app.py # Main Streamlit frontend
@@ -30,7 +31,7 @@ resume_parser/
 ├── skills.json # Skill database
 ├── sample_resumes/ # Sample resumes for testing
 └── requirements.txt # Python dependencies
-
+```
 ---
 
 ## 🧪 Try It Out
